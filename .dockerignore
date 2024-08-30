@@ -3,6 +3,3 @@ __pycache__/
 *egg-info/
 .DS_Store
 .env
-
-Untitled.ipynb
-.ipynb_checkpoints/
